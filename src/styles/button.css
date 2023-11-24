@@ -1,0 +1,17 @@
+button {
+}
+
+button.primary-btn {
+    background-color: var(--color-primary);
+    color: #fff;
+}
+
+button.large-btn {
+    padding: 0 50px;
+}
+
+button.plain-btn {
+    color: var(--color-primary);
+    background-color: transparent;
+    border: unset;
+}
